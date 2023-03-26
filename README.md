@@ -1,3 +1,3 @@
 ## Problem statement:
 
-* Write code that finds the common elements that exist in two arrays and prints the names of the common items.
+* Create a pyramid of numbers, where you must print in each separate line the amount of numbers that is being iterated at the moment.
